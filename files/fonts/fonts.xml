@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <fonts>
+    <font name="Adobe Kaiti Std R" className="FskyFont_AdobeKaitiStd_Regular" url="./files/fonts/font-0-0-2019923212058409.swf" ttfurl="./files/fonts/font-0-0-2019923212058409.ttf"/>
+    <font name="Adobe Kaiti Std R" className="FskyFont_AdobeKaitiStd_Regular" url="./files/fonts/font-0-0-2019923212058409.swf" ttfurl="./files/fonts/font-0-0-2019923212058409.ttf"/>
+    <font name="FZYaoTi" className="FskyFont_FZYTK" url="./files/fonts/font-2-0-2019923212059451.swf" ttfurl="./files/fonts/font-2-0-2019923212059451.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht" url="./files/fonts/font-1-0-2019923212059440.swf" ttfurl="./files/fonts/font-1-0-2019923212059440.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold" url="./files/fonts/font-3-1-201992321210430.swf" ttfurl="./files/fonts/font-3-1-201992321210430.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Italic" url="./files/fonts/font-3-2-201992321210860.swf" ttfurl="./files/fonts/font-3-2-201992321210860.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold_Italic" url="./files/fonts/font-3-3-201992321211306.swf" ttfurl="./files/fonts/font-3-3-201992321211306.ttf"/>
+  </fonts>
+</data>
